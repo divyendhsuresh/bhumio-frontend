@@ -1,2 +1,1 @@
 # bhumio-assessment
-# bhumio-frontend
